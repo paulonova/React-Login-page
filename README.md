@@ -9,3 +9,14 @@ React login page using useState, useEffect, useReduce, useContext
 ## Welcome page
 
 <img src="./src/img/welcomepage.png">
+
+## React Hooks
+
+Tutorial Link: https://www.freecodecamp.org/news/react-hooks-cheatsheet/
+
+- useState
+- useEffect
+- useReducer
+- useContext
+- useRef
+- useImperativeHandle
